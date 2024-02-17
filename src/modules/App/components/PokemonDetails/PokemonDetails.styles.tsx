@@ -22,8 +22,8 @@ export const Img = styled.img`
   border: 2px solid black;
 
   @media (max-width: 768px) {
-    height: 40vh;
-    width: 40vh;
+    height: 90vw;
+    width: 90vw;
   }
 `
 
